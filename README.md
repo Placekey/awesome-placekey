@@ -1,5 +1,5 @@
 # awesome-placekey
-😎 Awesome lists about awesome placekey related frameworks, libraries, software and resources
+😎 Awesome lists about awesome Placekey related frameworks, libraries, software and resources
 
 This site is a community, crowdsourced collection of code, tools, datasets, and other resources related to [Placekey](https://www.placekey.io/). We are leveraging the [awesome-list] approach to organize and share the growing set of contributions from the community.
 
