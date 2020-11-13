@@ -31,3 +31,10 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 ### R Code
 * [R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API.
+
+## No-Code
+A list of tools that you can use for Placekey that require no code
+
+### Google Sheets
+
+* [Google Sheets Add-on](https://gsuite.google.com/marketplace/app/placekey/611255445050) An Add-on for Google Sheets where you can append Placekeys to your dataset
