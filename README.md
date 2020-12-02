@@ -24,6 +24,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 * [Python library](https://github.com/Placekey/placekey-py) Python geo library and API client for Placekey.
 * [Notebook](https://github.com/Placekey/placekey-notebooks) Jupyter notebooks demonstrating functionality of the Placekey python library and Placekey API.
+* [Using Placekey in Tableau](https://github.com/sarahbat/Tableau/tree/master/placekey) Jupyter notebook and Python script demonstrating use in Tableau Desktop and Tableau Prep
 
 ### Javascript
 
