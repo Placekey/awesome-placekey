@@ -29,6 +29,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 ### Javascript
 
 * [Placekey Javascript Library](https://github.com/Placekey/placekey-js) A JavaScript library for working with Placekeys.
+* [Placekey example by Fil](https://observablehq.com/@fil/hello-placekey)
 
 ### R
 * [Placekey R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API.
