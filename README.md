@@ -32,7 +32,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 * [Placekey example by Fil](https://observablehq.com/@fil/hello-placekey)
 
 ### R
-* [Placekey R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API.
+* [Placekey R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API, and [Get location info from a Placekey](https://github.com/JosiahParry/placekey#get-location-info-from-a-placekey)
 
 ### Snowflake
 * [Placekey Snowflake External Function](https://github.com/Placekey/snowflake-external-function) External Function for Snowflake which enables users to append Placekeys to their database tables directly from within Snowflake.
