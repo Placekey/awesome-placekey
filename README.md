@@ -49,11 +49,15 @@ A list of tools that you can use for Placekey that require no code
 
 ### Google Sheets
 
-* [Placekey Google Sheets Add-on](https://gsuite.google.com/marketplace/app/placekey/611255445050) An Add-on for Google Sheets where you can append Placekeys to your dataset
+COMING SOON
 
-### Microsoft Excel
+// * [Placekey Google Sheets Add-on](https://gsuite.google.com/marketplace/app/placekey/611255445050) An Add-on for Google Sheets where you can append Placekeys to your dataset
 
-* [Placekey Microsoft Excel Add-in](https://appsource.microsoft.com/en-us/product/office/WA200002522) An Add-in for Microsoft Excel where you can append Placekeys to your dataset
+### Microsoft Excel 
+
+COMING SOON
+
+// * [Placekey Microsoft Excel Add-in](https://appsource.microsoft.com/en-us/product/office/WA200002522) An Add-in for Microsoft Excel where you can append Placekeys to your dataset
 
 ### QGIS Plugin
 
