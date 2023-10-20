@@ -37,9 +37,6 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 ### Snowflake
 * [Placekey Snowflake External Function](https://github.com/Placekey/snowflake-external-function) External Function for Snowflake which enables users to append Placekeys to their database tables directly from within Snowflake.
 
-### Unfolded Studio
-* [Placekey expression](https://docs.unfolded.ai/studio/expressions/placekey-functions) Unfolded Studio is a geospatial data analysis and visual exploration service. It has Placekey [data source support](https://docs.unfolded.ai/studio/data-guide/h3-and-placekey) and provides Placekey functions
-
 ### Go
 
 * [Unofficial Placekey Go Library](https://github.com/ringsaturn/pk) A Go library with basic geo feature support.
