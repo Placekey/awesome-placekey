@@ -51,8 +51,6 @@ A list of tools that you can use for Placekey that require no code
 
 COMING SOON
 
-// * [Placekey Google Sheets Add-on](https://gsuite.google.com/marketplace/app/placekey/611255445050) An Add-on for Google Sheets where you can append Placekeys to your dataset
-
 ### Microsoft Excel 
 
 COMING SOON
