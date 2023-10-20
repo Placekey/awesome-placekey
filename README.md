@@ -47,6 +47,11 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 ## No-Code
 A list of tools that you can use for Placekey that require no code
 
+### QGIS Plugin
+
+* [Placekey QGIS Plugin](https://plugins.qgis.org/plugins/placekey/) A plugin that enables you to append Placekeys to your layers, tables, or files within QGIS.
+
+
 ### Google Sheets
 
 COMING SOON
@@ -55,8 +60,4 @@ COMING SOON
 
 COMING SOON
 
-// * [Placekey Microsoft Excel Add-in](https://appsource.microsoft.com/en-us/product/office/WA200002522) An Add-in for Microsoft Excel where you can append Placekeys to your dataset
 
-### QGIS Plugin
-
-* [Placekey QGIS Plugin](https://plugins.qgis.org/plugins/placekey/) A plugin that enables you to append Placekeys to your layers, tables, or files within QGIS.
