@@ -26,6 +26,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 * [Placekey Notebooks](https://github.com/Placekey/placekey-notebooks) Jupyter notebooks demonstrating functionality of the Placekey python library and Placekey API.
 * [Using Placekey in Tableau](https://github.com/sarahbat/Tableau/tree/master/placekey) Jupyter notebook and Python script demonstrating use in Tableau Desktop and Tableau Prep
 
+<!-- NOTE: Javascript, R, and Go are not currently working
 ### Javascript
 
 * [Placekey Javascript Library](https://github.com/Placekey/placekey-js) A JavaScript library for working with Placekeys.
@@ -34,20 +35,28 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 ### R
 * [Placekey R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API, and [Get location info from a Placekey](https://github.com/JosiahParry/placekey#get-location-info-from-a-placekey)
 
-### Snowflake
-* [Placekey Snowflake External Function](https://github.com/Placekey/snowflake-external-function) External Function for Snowflake which enables users to append Placekeys to their database tables directly from within Snowflake.
-
 ### Go
 
 * [Unofficial Placekey Go Library](https://github.com/ringsaturn/pk) A Go library with basic geo feature support.
 
+-->  
+
+### Snowflake
+* [Placekey Snowflake External Function](https://github.com/Placekey/snowflake-external-function) External Function for Snowflake which enables users to append Placekeys to their database tables directly from within Snowflake.
+
+
+
+
 ## No-Code
 A list of tools that you can use for Placekey that require no code
+
+<!-- QGIS is not currently working
 
 ### QGIS Plugin
 
 * [Placekey QGIS Plugin](https://plugins.qgis.org/plugins/placekey/) A plugin that enables you to append Placekeys to your layers, tables, or files within QGIS.
 
+-->
 
 ### Google Sheets
 
