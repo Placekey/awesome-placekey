@@ -54,8 +54,6 @@ A list of tools that you can use for Placekey that require no code
 
 * [Placekey QGIS Plugin](https://plugins.qgis.org/plugins/placekey/) A plugin that enables you to append Placekeys to your layers, tables, or files within QGIS.
 
--->
-
 ### Google Sheets
 
 * [Placekey Google Sheets Add-On](https://workspace.google.com/marketplace/app/placekey/395020363939) A Google Sheets Add-on that enables you to append Placekeys in a Google Sheet.
